@@ -1,13 +1,13 @@
 # Frontend Mentor - Single Price Grid Component solution
 
-:point_right: This is the [Single Price Grid Component](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Single Price Grid Component](ahttps://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-2bDLtAVCQ) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm12_single_price_grid_component/)
 
 Give a ⭐️ if you like this project!
 
